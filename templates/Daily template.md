@@ -1,7 +1,7 @@
 
- 2024-04-22 - Daily Learnings 
+ <% tp.date.now("YYYY-MM-DD") %> - Daily Learnings 
 ## 🗓️ Date
-Monday, April 22nd 2024 
+<% tp.date.now("dddd, MMMM Do YYYY") %> 
 
 ## 🎯 Main Topic 
 - 
