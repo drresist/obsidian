@@ -1,21 +1,18 @@
+_<% tp.date.now("YYYY-MM-DD") %> - Daily Learnings_ 
 
- <% tp.date.now("YYYY-MM-DD") %> - Daily Learnings 
-## 🗓️ Date
-<% tp.date.now("dddd, MMMM Do YYYY") %> 
+🗓️ _Date_  
+<% tp.date.now("dddd, MMMM Do YYYY") %> 🎯 _Main Topic_  
 
-## 🎯 Main Topic 
-- 
-## 🤔 Questions 
-- 
-- 
-- 
-## 📚 Resources 
-- 
-- 
-- 
-## 🔑 Key Takeaways 
-1. 
-2. 
+🤔 _Questions_  
+-  
+-  
+📚 _Resources_  
+-  
+-  
+🔑 _Key Takeaways_  
+1.  
+2.  
 3. 
-## 📝 Notes 
+4. 
+📝 _Notes_  
 -
