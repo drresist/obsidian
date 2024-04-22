@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Daily template.md",
+                "file": "2024-04-22.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Daily template.md",
+                "file": "2024-04-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/Daily template.md",
+                "file": "2024-04-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Daily template.md"
+                "file": "2024-04-22.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "b6ae1a12098b12db",
   "lastOpenFiles": [
-    "2024-04-22.md",
     "templates/Daily template.md",
+    "2024-04-22.md",
     "templates",
     "Untitled.md"
   ]
