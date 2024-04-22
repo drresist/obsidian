@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "761f0d0a7a03cdbe",
@@ -147,7 +148,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b6ae1a12098b12db",
+  "active": "af045a4849ca311d",
   "lastOpenFiles": [
     "templates/Daily template.md",
     "2024-04-22.md",

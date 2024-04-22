@@ -1,7 +1,9 @@
 _<% tp.date.now("YYYY-MM-DD") %> - Daily Learnings_ 
 
 🗓️ _Date_  
-<% tp.date.now("dddd, MMMM Do YYYY") %> 🎯 _Main Topic_  
+<% tp.date.now("dddd, MMMM Do YYYY") %> 
+
+🎯 _Main Topic_  
 
 🤔 _Questions_  
 -  
